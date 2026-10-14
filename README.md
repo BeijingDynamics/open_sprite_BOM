@@ -2,9 +2,13 @@
 
 Open Sprite has two compute configurations that share the same 31-motor humanoid layout. This directory contains four interactive HTML documents for the first public hardware-documentation release.
 
+## Live website
+
+[Open the interactive Open Sprite BOM and hardware documentation →](https://beijingdynamics.github.io/open_sprite_BOM/)
+
 ## Open the documents
 
-The current publication files are served directly from the repository root. Open the [published BOM site](https://beijingdynamics.github.io/open_sprite_BOM/) or any HTML file locally in a browser. No build step or local server is required for the core pages. Links to manufacturer websites require an internet connection.
+The current publication files are served directly from the repository root. You can also open any HTML file locally in a browser. No build step or local server is required for the core pages. Links to manufacturer websites require an internet connection.
 
 | File | What it shows |
 | --- | --- |
