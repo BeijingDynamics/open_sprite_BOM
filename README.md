@@ -8,10 +8,10 @@ The current publication files are served directly from the repository root. Open
 
 | File | What it shows |
 | --- | --- |
-| [`spacemit-k3.html`](spacemit-k3.html) | SpacemiT K3 compute platform, four CAN FD buses, motor register and component details. |
+| [`spacemit-k3.html`](spacemit-k3.html) | SpacemiT K3-COM260 compute platform, four CAN FD buses, motor register and component details. |
 | [`nvidia-jetson.html`](nvidia-jetson.html) | NVIDIA Jetson Orin Nano Super Developer Kit, Kunhong four-channel USB-to-CAN FD EVK, motor register and component details. |
 | [`motor-location-map.html`](motor-location-map.html) | Front view of approximate motor placement. The robot faces the viewer, so its right side appears on the viewer's left. |
-| [`index.html`](index.html) | Combined bill of materials with separate SpacemiT K3 and NVIDIA Jetson quantity and cost columns, plus motor CAN_ID and Master_ID assignments. |
+| [`index.html`](index.html) | Combined bill of materials with separate SpacemiT K3-COM260 and NVIDIA Jetson quantity and cost columns, plus motor CAN_ID and Master_ID assignments. |
 
 The NVIDIA page displays a local EVK photograph. Keep [`assets/kunhong-4-channel-evk.png`](assets/kunhong-4-channel-evk.png) at that relative path when copying the HTML files. All four pages link to one another.
 
